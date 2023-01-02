@@ -1,0 +1,23 @@
+{
+  "name": "229071_rohitbadwe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbad22/229071_RohitBadwe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitbad22/229071_RohitBadwe/issues"
+  },
+  "homepage": "https://github.com/rohitbad22/229071_RohitBadwe#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
